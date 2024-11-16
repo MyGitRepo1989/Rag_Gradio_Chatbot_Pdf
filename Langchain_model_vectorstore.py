@@ -17,8 +17,7 @@ from langchain_core.prompts import ChatPromptTemplate
 
 import getpass
 import os
-#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
-#/Users/user/opt/miniconda3/envs/langchain2024/bin/python Langchain_model_vectorstore.py
+
 
 #make vectors
 
