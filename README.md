@@ -7,6 +7,8 @@
 
 <p>This project demonstrates the implementation of a Retrieval-Augmented Generation (RAG) model using <strong>LangChain</strong> and <strong>OpenAI embeddings</strong>. The pipeline involves creating a vector store, building a RAG chain, and deploying the chatbot as a <strong>Gradio</strong> application with CSS customization.</p>
 
+<p> <b> Additionally we display the Sources of Documents in each response </b> </p>
+
 <h2>Technical Overview</h2>
 
 <h3>1. Vector Store Creation</h3>
